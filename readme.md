@@ -1,4 +1,3 @@
-## 🤝 Contributing
 <img src="https://github.com/theajmalrazaq/certedit/raw/master/assest/ertedit.svg" width="200px"/>
 
 
